@@ -119,9 +119,18 @@ Gợi ý nếu mở rộng thành dịch vụ web:
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-- Họ tên: Võ Trung Nhân
-- Mã số sinh viên: 2200009905
-- Môn học: Chuyên đề chuyên sâu 2
-- Trường/Đơn vị: (Điền thông tin trường/viện nếu cần)
+**Võ Trung Nhân**
+
+- 📧 Email: [nhantrung297@gmail.com](mailto:nhantrung297@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/vtn2907/](https://www.linkedin.com/in/vtn2907/)
+- 🐙 GitHub: [@VTNMT2930](https://github.com/VTNMT2930)
+- 🌐 Portfolio: [https://nhanit.io.vn/](https://nhanit.io.vn/)
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by Nhân IT</p>
+  <p>⭐ Star this repo if you find it helpful!</p>
+</div>
